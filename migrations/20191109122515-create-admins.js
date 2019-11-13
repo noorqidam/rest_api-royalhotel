@@ -22,7 +22,6 @@ module.exports = {
       },
       image: {
         type: Sequelize.STRING,
-        defaultValue: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO62eiEGsJo635wCvw0ypoFkA-FtfQzXr2EU7L3exb5lqAPHXB6w&s'
       },
       createdAt: {
         allowNull: false,
